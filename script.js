@@ -12,5 +12,7 @@ function calc(){
 		}
 	}
 	// Show the largest number
+	console.log(max);
 	alert("The largest number is: " + max);
+
 }
